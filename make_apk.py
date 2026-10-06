@@ -433,3 +433,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+    import add_push
+    add_push.run()
